@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 lista bohaterów
 ----------------
 Percy Jackson
+=======
+ista bohaterów
+>>>>>>> refs/remotes/origin/main
